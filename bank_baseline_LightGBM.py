@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Feb  2 08:33:05 2021
-
-@author: mi-nakada
-"""
-"""
 コメント：
 baseline
 """
